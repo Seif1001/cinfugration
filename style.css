@@ -1,0 +1,15 @@
+#color_orange{
+    color:rgb(243, 162, 12)
+}
+#color_dark_orange{
+    color:rgb(150, 83, 1)
+}
+
+h1{
+    background-color: orange;
+    border-bottom: 10px black solid;
+    padding: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
